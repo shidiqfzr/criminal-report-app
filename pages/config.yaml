@@ -1,0 +1,17 @@
+credentials:
+  usernames:
+    ashidiq:
+      email: achmadshidiqnurfazar@gmail.com
+      name: Achmad Shidiq
+      password: $2b$12$GtWMk2x753xdFTyNOz7jcevjdzpvXLHccI6i5Y7SJqDNDO4HcdxlK # shidiq28  To be replaced with hashed password
+    sbagus:
+      email: satriobagus@gmail.com
+      name: Satrio Bagus
+      password: $2b$12$/h4cIFAzbGqCux2sW8uWDeCF1ICDxLrqhhnCYtlffwsSingjYdoxi # satrio123 To be replaced with hashed password
+cookie:
+  expiry_days: 0
+  key: "FaceRecognitionKey" # Must be string
+  name: FaceRecognition
+preauthorized:
+  emails:
+  - achmadshidiqnurfazar@gmail.com
